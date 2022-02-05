@@ -6,43 +6,479 @@ uid: 82a2818e-1670-5941-12ad-b0aa31c450f8
 
 The table below provides information on the course's lecture (L), and lab (Lab) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction to Ocean Systems and Engineering |  |
-| L2 | Sea Floor; Measurements in the Ocean; Accuracy of Measurements |  |
-| L3 | Atmospheric Effects on the Ocean; Wind and Heat |  |
-| Lab 1 | SeaPerch II ROV: Introduction to SeaPerch, Construction Plan, Lab Procedures | Homework 1 due |
-| L4 | Ocean Seawater Properties |  |
-| Lab 2 | SeaPerch II: Building and Motors |  |
-| Lab 3 | Extra SeaPerch II Lab Session, In Place of Lecture: Building Motors and Electronics (cont.) |  |
-| L5 | Light Propagation in the Ocean | Homework 2 due |
-| Lab 4 | SeaPerch II: Continue Work |  |
-| L6 | Sound Propagation in the Ocean: Basics, Speed of Sound, Sound Channel |  |
-| L7 | Acoustics 1 |  |
-| Lab 5 | SeaPerch II: Completion |  |
-| L8 | Acoustics 2 | Homework 3 due |
-| L9 | Acoustics 3 |  |
-| Lab 6 | Field/Pool Test of SeaPerch II ROV |  |
-| L10 | Acoustics 4 |  |
-| L11 | Introduction to GFD; Conservation of Mass/Momentum/Energy | Homework 4 due |
-| Lab 7 | Start Final Project |  |
-|  | Exam 1 (In-class) |  |
-| L12 | Turbulence, Scaling, Boundary Layers |  |
-| Lab 8 | Final Project (cont.) |  |
-| L13 | Ocean Mixing and Stability |  |
-| L14 | Coriolis Force and Ekman Forcing | Homework 5 due |
-| Lab 9 | Final Project (cont.) |  |
-| L15 | Geostrophic Flows 1 |  |
-| Lab 10 | Final Project (cont.) |  |
-| L16 | Geostrophic Flows 2 | Homework 6 due |
-| L17 | Measuring Currents: Lagrangian vs. Eulerian |  |
-| Lab 11 | Final Project: Testing |  |
-| L18 | Deep Ocean Circulation |  |
-| L19 | El Nino and La Nina | Homework 7 due |
-| Lab 12 | Final Project: Testing, Integration with ROV |  |
-| L20 | Coastal Processes: Tsunamis |   {{< br >}}  {{< br >}}Exam 2 (take home) out |
-| Lab 13 | Final Project: Testing Complete ROV System |  |
-| L21 | Guest Lecture: Hydrothermal Vents in the Ocean | Exam 2 (take home) due |
-| L22 | Guest Lecture: Chemical Sensing in the Ocean |  |
-| Lab 14 | Final Presentations |  |
-| L23 | Trip to WHOI: Launch ROV and Visit WHOI Labs |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Ocean Systems and Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Sea Floor; Measurements in the Ocean; Accuracy of Measurements
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Effects on the Ocean; Wind and Heat
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+SeaPerch II ROV: Introduction to SeaPerch, Construction Plan, Lab Procedures
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Seawater Properties
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+SeaPerch II: Building and Motors
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Extra SeaPerch II Lab Session, In Place of Lecture: Building Motors and Electronics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Light Propagation in the Ocean
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+SeaPerch II: Continue Work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Sound Propagation in the Ocean: Basics, Speed of Sound, Sound Channel
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustics 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+SeaPerch II: Completion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustics 2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustics 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+Field/Pool Test of SeaPerch II ROV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustics 4
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to GFD; Conservation of Mass/Momentum/Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 7
+{{< tdclose >}}
+{{< tdopen >}}
+Start Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 (In-class)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Turbulence, Scaling, Boundary Layers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 8
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Mixing and Stability
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Coriolis Force and Ekman Forcing
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 9
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Geostrophic Flows 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 10
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Geostrophic Flows 2
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Measuring Currents: Lagrangian vs. Eulerian
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 11
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: Testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Deep Ocean Circulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+El Nino and La Nina
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: Testing, Integration with ROV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Coastal Processes: Tsunamis
+{{< tdclose >}}
+{{< tdopen >}}
+  
+  
+Exam 2 (take home) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: Testing Complete ROV System
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Hydrothermal Vents in the Ocean
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 (take home) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Chemical Sensing in the Ocean
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Trip to WHOI: Launch ROV and Visit WHOI Labs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
