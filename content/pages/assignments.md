@@ -78,7 +78,7 @@ Homework 6 ([PDF]({{< baseurl >}}/resources/hw6))
 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw7_soln))
+([PDF]({{< baseurl >}}/resources/hw7_soln))
 {{< tdclose >}}
 
 {{< trclose >}}

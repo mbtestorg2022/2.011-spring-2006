@@ -204,7 +204,7 @@ L9
 Acoustics 3
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Sonor (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5_sonar_leonar)) (Courtesy of Prof. John Leonard. Used with permission.)
+Introduction to Sonor ([PDF]({{< baseurl >}}/resources/hw5_sonar_leonar)) (Courtesy of Prof. John Leonard. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +278,7 @@ Turbulence, Scaling, Boundary Layers
 {{< tdopen >}}
 [Chapter 8](https://sites.google.com/tamu.edu/ocean-world/resources)  
   
-Slides: Vorticity in the Ocean (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/vorticity))
+Slides: Vorticity in the Ocean ([PDF]({{< baseurl >}}/resources/vorticity))
 {{< tdclose >}}
 
 {{< trclose >}}
